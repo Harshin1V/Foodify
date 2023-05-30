@@ -6,11 +6,11 @@ const Footer = () => {
     <p data-testid="footer" className="text-center my-4">
       @ Created by{" "}
       <a
-        href="https://thisisyashgarg.netlify.app"
+        href="https://resume-harshin1v.vercel.app/"
         className="hover:text-gray-900 hover:font-medium"
         target="_blank"
       >
-        Yash Garg
+        Harshini Vutukuri
       </a>
     </p>
   );
